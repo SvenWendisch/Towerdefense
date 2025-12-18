@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.7">
+  <diagram name="Page-1" id="ryIWeWhPwcoAo4u-3uJw">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C0krreoFzL44bZjfcXhw-3" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-5" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-7" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Tower&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zahnpasta Tower" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Zahnbürsten Tower&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zahnseiden Tower" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-10" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gegner" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Karies" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Zahn" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-14" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-15" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="StationaryObject" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pfad" vertex="1">
+          <mxGeometry height="60" width="120" x="820" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Geschoss" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Renderer" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-27" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;UI&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-22" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-23" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-24" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sprite" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Positionierung der Tower" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-30" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-32" edge="1" parent="1" source="C0krreoFzL44bZjfcXhw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0krreoFzL44bZjfcXhw-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="849.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Healthbar" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Healthbar Zahn" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="C0krreoFzL44bZjfcXhw-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Healthbar Gegner" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="840" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
